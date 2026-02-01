@@ -1,2 +1,3 @@
 # Power-Electronics-Applications
-this repo include all project's code that i have made in power electronics 
+This repository includes all the code for the projects I have developed in power electronics.
+
